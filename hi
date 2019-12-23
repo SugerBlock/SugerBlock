@@ -1,0 +1,23 @@
+{
+        "type": "crafting_shaped",
+        "pattern": [
+            "123",
+            "231",
+            "312"
+        ],
+        "key": {
+            "1": {
+                "item": "<minecraft:stick>"
+            },
+            "2": {
+                "item": "<minecraft:gold_nugget>"
+            },
+            "3": {
+                "item": "<air>"
+            }
+        },
+        "result": {
+            "item": "<air>",
+            "count": 5
+        }
+    }
